@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivamra8hi
+- 👋 Hi, I’m Shivam Rathi
 - 👀 I’m interested in Data Science and machine Learning.
 - 🌱 I’m currently learning Natural language processing.
 - 💞️ I’m looking to collaborate on ...
